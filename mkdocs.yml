@@ -9,9 +9,8 @@ theme:
   icon:
     edit: material/pencil 
     view: material/eye
-  palette:
-    primary: white
-    background: #9c9789      
+  features:
+    - toc.integrate 
 
 extra_css:
   - stylesheets/theme.css
@@ -35,9 +34,9 @@ nav:
   - Monitor Signup & Training:
       - Monitor Signup: monitor/signup.md
       - Monitor Duties: monitor/duties.md
-      - Monitor Training & Orientation: monitor/training.md
+      - "Monitor Training & Orientation": monitor/training.md
       - Monitoring Manual: monitor/manual.md
-  - Technology Support & Repair: tech-support/index.md
+  - "Technology Support & Repair": tech-support/index.md
   - Classes:
       - Overview: classes/overview.md
       - Registration: classes/registration.md
@@ -48,6 +47,6 @@ nav:
       - Artificial Intelligence: sigs/ai.md
       - Flight Simulator: sigs/flight-simulator.md
       - Genealogy: sigs/genealogy.md
-      - Open Systems (Linux): sigs/open-systems.md
+      - "Open Systems (Linux)": sigs/open-systems.md
       - Video Hangouts: sigs/video-hangouts.md
   - Pay Dues: pay-dues.md
