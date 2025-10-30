@@ -11,7 +11,7 @@ theme:
     view: material/eye
   features:
     - toc.integrate 
-
+    - navigation.tabs
 extra_css:
   - stylesheets/theme.css
 
