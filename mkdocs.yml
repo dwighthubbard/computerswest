@@ -1,9 +1,8 @@
 site_name: Computers West
 site_url: https://computerswest.org/
 theme:
-  name: null
-  custom_dir: theme
-  static_templates: []
+  name: mkdocs
+  user_color_mode_toggle: true
 nav:
   - Home: index.md
   - About:
@@ -35,23 +34,3 @@ nav:
       - Open Systems (Linux): sigs/open-systems.md
       - Video Hangouts: sigs/video-hangouts.md
   - Pay Dues: pay-dues.md
-extra:
-  tagline: Sun City West Computer Club
-  address: Palm Ridge Center · West Deer Valley Drive · Sun City West, AZ 85375
-  phone: (623) 214-1546
-  hours: Mon–Fri 8:00 am–4:00 pm · Seasonal hours may vary
-  sidebar_highlights:
-    - title: Become a Member
-      description: Join Computers West to access classes, SIGs, and technology support services designed for Sun City West residents.
-      url: membership/index/
-      cta: Membership Info
-    - title: Monitor Resources
-      description: Access training, duties, and signup details for club monitors keeping the lab running smoothly.
-      url: monitor/training/
-      cta: Monitor Training
-    - title: Need Tech Support?
-      description: Explore repair services, one-on-one assistance, and tips to keep your devices running their best.
-      url: tech-support/
-      cta: Technology Support
-plugins:
-  - search
