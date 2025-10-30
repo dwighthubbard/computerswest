@@ -13,6 +13,12 @@
   border-color: var(--cw-secondary);
 }
 
+/* Material header uses a solid brand color */
+.md-header,
+.md-tabs {
+  background-color: #df9967;
+}
+
 .navbar .navbar-brand,
 .navbar .nav > li > a,
 .navbar .nav > li > a:focus {
