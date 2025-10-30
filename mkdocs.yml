@@ -14,6 +14,8 @@ theme:
     - navigation.tabs
 extra_css:
   - stylesheets/theme.css
+extra_javascript:
+  - javascripts/header-dropdowns.js
 
 # plugins:
 #   - git-revision-date-localized:
