@@ -20,9 +20,28 @@ theme:
 extra_css:
   - stylesheets/theme.css
 
+markdown_extensions:
+    - pymdownx.blocks.html
+    - admonition
+    - toc:
+        permalink: true
+    - footnotes
+    - def_list
+    - attr_list
+    - md_in_html
+    - pymdownx.superfences
+    - pymdownx.tabbed
+    - pymdownx.details
+    - pymdownx.critic
+    - pymdownx.keys
+    - pymdownx.betterem:
+        smart_enable: all
+
 plugins:
   git-revision-date-localized:
     enable_creation_date: true
+  search:
+      enabled: false
 
 nav:
   - Home: index.md
@@ -47,11 +66,11 @@ nav:
       - Registration: classes/registration.md
       - FAQs: classes/faqs.md
   - Special Interest Groups:
-      - PC Windows: sigs/windows.md
       - All Things Apple: sigs/apple.md
       - Artificial Intelligence: sigs/ai.md
       - Flight Simulator: sigs/flight-simulator.md
       - Genealogy: sigs/genealogy.md
       - "Open Systems (Linux)": sigs/open-systems.md
+      - PC Windows: sigs/windows.md
       - Video Hangouts: sigs/video-hangouts.md
   - Pay Dues: pay-dues.md
