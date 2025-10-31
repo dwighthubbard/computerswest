@@ -1,15 +1,10 @@
-<div class="cw-hero">
-  <div class="cw-hero__content">
-    <h1>Welcome to Computers West</h1>
-    <p class="cw-hero__location">Located at Palm Ridge Recreation Center in Sun City West, Arizona.</p>
-    <p>We empower our members by elevating their computer understanding, smartphone abilities, and Internet-of-Things (IoT) savvy. Explore technology support & repair, special interest groups, and classes.</p>
-    <p>Free high-speed Internet for Sun City West residents is offered in the Palm Ridge Recreation Center lobby (for club members and accompanied guests).</p>
-    <div class="cw-hero__cta">
-      <a href="monitor/signup.md">Become a Monitor</a>
-      <a href="membership/index.md">Join Computers West</a>
-    </div>
-  </div>
-</div>
+# Welcome to Computers West<
+
+Located at Palm Ridge Recreation Center.
+
+We empower our members by elevating their computer understanding, smartphone abilities, and Internet-of-Things (IoT) savvy. Explore technology support & repair, special interest groups, and classes.
+
+Free high-speed Internet for Sun City West residents is offered in the Palm Ridge Recreation Center lobby (for club members and accompanied guests).
 
 ## Club Information
 <div class="grid cards" markdown>
@@ -21,8 +16,8 @@
     (623) 214-1546
 
 !!! info "Club Hours"
-    Normal: Mon–Fri 8:00 am–4:00 pm  
-    Summer: Mon, Tue & Thu 10:00 am–2:00 pm; Wed & Fri 7:30 am–2:00 pm
+    Normal: Mon–Fri 8:00am–4:00pm  
+    Summer: Mon, Tue & Thu 10:00am–2:00pm; Wed & Fri 7:30am–2:00pm
 
 </div>
 
