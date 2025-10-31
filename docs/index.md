@@ -6,6 +6,15 @@ We empower our members by elevating their computer understanding, smartphone abi
 
 Free high-speed Internet for Sun City West residents is offered in the Palm Ridge Recreation Center lobby (for club members and accompanied guests).
 
+## Upcoming Events
+
+<div class="calendar-container"> 
+<iframe
+  src="https://calendar.google.com/calendar/embed?src=windowsgroupscw2020%40gmail.com&mode=AGENDA&showTitle=0&showNav=1&showDate=0&showPrint=0&showTabs=0&showCalendars=0&height=700&wkst=1&bgcolor=%23ffffff&ctz=America%2FPhoenix"
+  style="border:0" width="100%" height="400" frameborder="0" scrolling="no">
+</iframe>
+</div>
+
 ## Club Information
 <div class="grid cards" markdown>
 
