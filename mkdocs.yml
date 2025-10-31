@@ -68,6 +68,7 @@ nav:
   - Special Interest Groups:
       - All Things Apple: sigs/apple.md
       - Artificial Intelligence: sigs/ai.md
+      - Streaming and Cord Cutting: sigs/streaming-cord-cutting.md
       - Flight Simulator: sigs/flight-simulator.md
       - Genealogy: sigs/genealogy.md
       - "Open Systems (Linux)": sigs/open-systems.md
