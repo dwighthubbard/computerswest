@@ -89,8 +89,78 @@ footer a:hover,
 }
 
 body {
-  background: #9c9789;
+  background: #f5efe6;
   color: #ffffff;
+}
+
+.cw-hero {
+  position: relative;
+  margin: 1.5rem 0 2.5rem;
+  border-radius: 1.5rem;
+  overflow: hidden;
+  background: #f5efe6 url("../images/cw-desert-background.svg") center/cover no-repeat;
+  min-height: 320px;
+  display: flex;
+  align-items: center;
+  box-shadow: 0 1.5rem 3rem rgba(12, 18, 28, 0.35);
+}
+
+.cw-hero::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(90deg, rgba(15, 23, 42, 0.75), rgba(15, 23, 42, 0.25));
+}
+
+.cw-hero__content {
+  position: relative;
+  z-index: 1;
+  padding: 3rem;
+  max-width: 640px;
+  color: #fefbf5;
+}
+
+.cw-hero__content h1 {
+  font-size: clamp(2.5rem, 4vw, 3.5rem);
+  margin-bottom: 0.5rem;
+  font-weight: 700;
+  text-shadow: 0 0.5rem 1.5rem rgba(0, 0, 0, 0.35);
+}
+
+.cw-hero__content p {
+  font-size: 1.15rem;
+  line-height: 1.6;
+  margin: 0.75rem 0;
+  text-shadow: 0 0.35rem 1.2rem rgba(0, 0, 0, 0.4);
+}
+
+.cw-hero__location {
+  font-size: 1.25rem;
+  font-weight: 600;
+  letter-spacing: 0.02em;
+}
+
+.cw-hero__cta {
+  margin-top: 1.5rem;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.75rem;
+}
+
+.cw-hero__cta a {
+  background: linear-gradient(90deg, var(--cw-primary), var(--cw-secondary));
+  color: var(--cw-light) !important;
+  padding: 0.75rem 1.5rem;
+  border-radius: 999px;
+  font-weight: 600;
+  box-shadow: 0 0.85rem 1.6rem rgba(233, 141, 35, 0.35);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.cw-hero__cta a:hover,
+.cw-hero__cta a:focus {
+  transform: translateY(-2px);
+  box-shadow: 0 1.2rem 2.2rem rgba(255, 108, 67, 0.4);
 }
 
 /* Make sure inactive navigation links stay white for readability */
