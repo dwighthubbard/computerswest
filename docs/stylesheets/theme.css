@@ -20,6 +20,11 @@
   background-color: #df9967;
 }
 
+.md-button--primary {
+  background-color: var(--cw-primary);
+  border-color: var(--cw-secondary);
+  color: var(--cw-light);
+}
 
 .navbar .navbar-brand,
 .navbar .nav > li > a,
@@ -89,7 +94,7 @@ footer a:hover,
 }
 
 body {
-  background: #4c1e09 url("../images/desert_background_dark.png") center/cover repeat-y;
+  background: #4c1e09 url("../images/desert_background_dark2.png") center/cover repeat-y;
   color: #ffffff;
 }
 
@@ -98,7 +103,7 @@ body {
   margin: 1.5rem 0 2.5rem;
   border-radius: 1.5rem;
   overflow: hidden;
-  background: #4c1e09 url("../images/desert_background_dark.png") center/cover no-repeat;
+  background: #4c1e09 url("../images/desert_background_dark2.png") center/cover no-repeat;
   min-height: 320px;
   display: flex;
   align-items: center;
