@@ -66,6 +66,7 @@ nav:
       - Registration: classes/registration.md
       - FAQs: classes/faqs.md
   - Special Interest Groups:
+      - 3D Printing: sigs/3d-printing.md
       - All Things Apple: sigs/apple.md
       - Artificial Intelligence: sigs/ai.md
       - Streaming and Cord Cutting: sigs/streaming-cord-cutting.md
