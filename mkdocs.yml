@@ -3,6 +3,8 @@ site_name: Computers West
 site_url: https://computerswest.org/
 repo_name: dwighthubbard/computerswest
 repo_url: https://github.com/dwighthubbard/computerswest.git
+extra:
+  generator: false
 theme:
   # name: mkdocs
   name: material
@@ -44,10 +46,19 @@ markdown_extensions:
         smart_enable: all
 
 plugins:
+  git-authors:
+    enabled: true
+    repository: dwighthubbard/computerswest
+    branch: main
+  # git-committers:
+  #   enabled: true
+  #   repository: dwighthubbard/computerswest
+  #   branch: main
   git-revision-date-localized:
     enable_creation_date: true
+    fallback_to_build_date: true
   search:
-      enabled: true
+    enabled: true
 
 nav:
   - Home: index.md
