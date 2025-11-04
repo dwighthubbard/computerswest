@@ -9,15 +9,19 @@ theme:
   logo: images/cw-logo-clear8-e1711862350250.png
   favicon: images/favicon.ico
   # user_color_mode_toggle: true
-  include_sidebar: true
+  # include_sidebar: true
   icon:
     edit: material/pencil 
     view: material/eye
   features:
-    - toc.integrate 
+    #- navigation.sections
+    # - navigation.path
+    - toc.integrate
     - navigation.tabs
+    # - navigation.instant
+    - content.action.edit
   palette:
-    primary: indigo
+    primary: custom
 
 extra_css:
   - stylesheets/theme.css
@@ -43,7 +47,7 @@ plugins:
   git-revision-date-localized:
     enable_creation_date: true
   search:
-      enabled: false
+      enabled: true
 
 nav:
   - Home: index.md
