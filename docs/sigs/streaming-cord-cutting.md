@@ -1,4 +1,4 @@
-# Streaming \& Cord‑Cutting SIG
+# Streaming & Cord‑Cutting SIG
 
 > Learn how to replace or augment traditional TV service with streaming, over‑the‑air reception, and simple home setups. This SIG covers device choices, service options, antenna basics, privacy and cost‑saving tips.
 
