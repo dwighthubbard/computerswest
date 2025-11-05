@@ -2,7 +2,7 @@ edit_uri: 'blob/main/docs/'
 site_name: Computers West
 site_url: https://computerswest.org/
 repo_name: dwighthubbard/computerswest
-repo_url: https://github.com/dwighthubbard/computerswest.git
+repo_url: https://github.com/dwighthubbard/computerswest
 extra:
   generator: false
 theme:
