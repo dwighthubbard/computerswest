@@ -16,11 +16,11 @@ theme:
     edit: material/pencil 
     view: material/eye
   features:
-    - navigation.sections
-    - navigation.path
+    # - navigation.sections
+    # - navigation.path
     - toc.integrate
     - navigation.tabs
-    - navigation.instant
+    # - navigation.instant
     - content.action.edit
   palette:
     primary: custom
