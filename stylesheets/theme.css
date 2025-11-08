@@ -1,0 +1,34 @@
+/* Brand color tokens derived from the Computers West palette */
+:root {
+  --md-primary-fg-color: #ff6c43;
+  --md-primary-fg-color--light: #ff6c43;
+  --md-primary-fg-color--dark:  #90030C;
+  --cw-secondary: #ea8d23;
+  --cw-dark: #000000;
+  --cw-light: #ffffff;
+}
+
+body {
+  background: #4c1e09 url("../images/desert_background_light.png") center/cover repeat-y;
+}
+
+.calendar-container {
+position: relative;
+width: 100%;
+padding-bottom: 75%;
+overflow: hidden;
+}
+
+.calendar-container iframe {
+position: absolute;
+top: 0;
+left: 0;
+width: 100%;
+height: 100%;
+border: 0;
+}
+
+.md-header,
+.md-tabs {
+  background-color: #df9967;
+}
