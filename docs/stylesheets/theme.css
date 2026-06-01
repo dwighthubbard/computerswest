@@ -6,10 +6,35 @@
   --cw-secondary: #ea8d23;
   --cw-dark: #000000;
   --cw-light: #ffffff;
+  --cw-text: #17110f;
 }
 
 body {
-  background: #4c1e09 url("../images/desert_background_light.png") center/cover repeat-y;
+  background:
+    linear-gradient(rgba(255, 255, 255, 0.72), rgba(255, 255, 255, 0.72)),
+    #f8efe7 url("../images/light-site-background.png") center/cover fixed;
+  color: var(--cw-text);
+  font-family: "Aptos", "Segoe UI Variable Text", "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  font-weight: 550;
+}
+
+.md-typeset {
+  color: var(--cw-text);
+  font-weight: 550;
+}
+
+.md-typeset h1,
+.md-typeset h2,
+.md-typeset h3,
+.md-typeset h4 {
+  font-family: "Aptos Display", "Segoe UI Variable Display", "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  font-weight: 760;
+  letter-spacing: 0;
+}
+
+.md-typeset strong,
+.md-typeset b {
+  font-weight: 800;
 }
 
 .calendar-container {
