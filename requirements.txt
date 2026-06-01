@@ -7,3 +7,4 @@ mkdocs-material-extensions
 mkdocs-theme-bootstrap4
 pymdown-extensions
 mkdocs-git-authors-plugin
+mkdocs-slides

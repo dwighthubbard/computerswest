@@ -28,6 +28,9 @@ theme:
 extra_css:
   - stylesheets/theme.css
 
+exclude_docs: |
+  sigs/3d-printing/classes/introduction/deck/*.md
+
 markdown_extensions:
     - pymdownx.blocks.html
     - admonition
@@ -57,6 +60,8 @@ plugins:
   git-revision-date-localized:
     enable_creation_date: true
     fallback_to_build_date: true
+  slides:
+    template: docs/sigs/3d-printing/classes/introduction/slide-template.html
   search:
     enabled: true
 
@@ -84,7 +89,15 @@ nav:
       - FAQs: classes/faqs.md
   - Special Interest Groups:
       - Overview: sigs/overview.md
-      - 3D Printing: sigs/3d-printing.md
+      - 3D Printing:
+          - Overview: sigs/3d-printing/3d-printing.md
+          - Introduction Class:
+              - Overview: sigs/3d-printing/classes/introduction/index.md
+              - Instructor Guide: sigs/3d-printing/classes/introduction/instructor-guide.md
+              - Slide Deck: sigs/3d-printing/classes/introduction/slide-deck.md
+              - Slide Outline: sigs/3d-printing/classes/introduction/slide-outline.md
+              - Attendee Handout: sigs/3d-printing/classes/introduction/attendee-handout.md
+              - Timing Plan: sigs/3d-printing/classes/introduction/timing-plan.md
       - All Things Apple: sigs/apple.md
       - Artificial Intelligence: sigs/ai.md
       - Streaming and Cord Cutting: sigs/streaming-cord-cutting.md
