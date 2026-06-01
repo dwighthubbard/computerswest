@@ -34,8 +34,6 @@ exclude_docs: |
 markdown_extensions:
     - pymdownx.blocks.html
     - admonition
-    - toc:
-        permalink: true
     - footnotes
     - def_list
     - attr_list
@@ -47,6 +45,9 @@ markdown_extensions:
     - pymdownx.keys
     - pymdownx.betterem:
         smart_enable: all
+    - pymdownx.superfences
+    - toc:
+        permalink: true
 
 plugins:
   git-authors:

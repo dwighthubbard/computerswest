@@ -1,5 +1,8 @@
 # 3D Printing Special Interest Group (SIG)
 
+!!! info "Next Class"
+    June 8th, 2026 - [Introduction to 3D Printing](classes/introduction/index.md)
+
 Explore the world of 3D printing, from design to fabrication, and share knowledge on best practices and innovations in the field.
 
 ## SIG Meetings
@@ -7,6 +10,10 @@ Explore the world of 3D printing, from design to fabrication, and share knowledg
 - Meetings typically include demonstrations, member Q&A, and hands‑on help.
 - Some meetings will have a class that covers a specific common topic.
 
-## Class Materials
 
-- [Introduction to 3D Printing](classes/introduction/index.md)
+
+### Classes
+
+| Class Name                                                   | Description                                             |
+|--------------------------------------------------------------|---------------------------------------------------------|
+| [Introduction to 3D Printing](classes/introduction/index.md) | An overview on what 3d Printing is and what is possible |
