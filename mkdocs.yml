@@ -68,43 +68,43 @@ plugins:
 
 nav:
   - Home: index.md
-  - About:
-      - History: about/history.md
-      - Cell Phones for Soldiers: about/cell-phones-for-soldiers.md
-  - Membership:
-      - Membership Info: membership/index.md
-      - Calendar: membership/calendar.md
-      - Newsletters: membership/newsletters.md
-      - Officers: membership/officers.md
-      - Meeting Minutes: membership/minutes.md
-      - Bylaws: membership/bylaws.md
-  - Monitor Signup & Training:
-      - Monitor Signup: monitor/signup.md
-      - Monitor Duties: monitor/duties.md
-      - "Monitor Training & Orientation": monitor/training.md
-      - Monitoring Manual: monitor/manual.md
-  - "Technology Support & Repair": tech-support/index.md
-  - Classes:
-      - Overview: classes/overview.md
-      - Registration: classes/registration.md
-      - FAQs: classes/faqs.md
-  - Special Interest Groups:
-      - Overview: sigs/overview.md
-      - 3D Printing:
-          - Overview: sigs/3d-printing/3d-printing.md
-          - Introduction Class:
-              - Overview: sigs/3d-printing/classes/introduction/index.md
-              - Instructor Guide: sigs/3d-printing/classes/introduction/instructor-guide.md
-              - Slide Deck: sigs/3d-printing/classes/introduction/slide-deck.md
-              - Slide Outline: sigs/3d-printing/classes/introduction/slide-outline.md
-              - Attendee Handout: sigs/3d-printing/classes/introduction/attendee-handout.md
-              - Timing Plan: sigs/3d-printing/classes/introduction/timing-plan.md
-      - All Things Apple: sigs/apple.md
-      - Artificial Intelligence: sigs/ai.md
-      - Streaming and Cord Cutting: sigs/streaming-cord-cutting.md
-      - Flight Simulator: sigs/flight-simulator.md
-      - Genealogy: sigs/genealogy.md
-      - "Open Systems (Linux)": sigs/open-systems.md
-      - PC Windows: sigs/windows.md
-      - Video Hangouts: sigs/video-hangouts.md
-  - Pay Dues: pay-dues.md
+  # - About:
+  #     - History: about/history.md
+  #     - Cell Phones for Soldiers: about/cell-phones-for-soldiers.md
+  # - Membership:
+  #     - Membership Info: membership/index.md
+  #     - Calendar: membership/calendar.md
+  #     - Newsletters: membership/newsletters.md
+  #     - Officers: membership/officers.md
+  #     - Meeting Minutes: membership/minutes.md
+  #     - Bylaws: membership/bylaws.md
+  # - Monitor Signup & Training:
+  #     - Monitor Signup: monitor/signup.md
+  #     - Monitor Duties: monitor/duties.md
+  #     - "Monitor Training & Orientation": monitor/training.md
+  #     - Monitoring Manual: monitor/manual.md
+  # - "Technology Support & Repair": tech-support/index.md
+  # - Classes:
+  #     - Overview: classes/overview.md
+  #     - Registration: classes/registration.md
+  #     - FAQs: classes/faqs.md
+  # - Special Interest Groups:
+  #     - Overview: sigs/overview.md
+  #     - 3D Printing:
+  - 3d Printing: sigs/3d-printing/3d-printing.md
+  - Introduction Class:
+      - Overview: sigs/3d-printing/classes/introduction/index.md
+      - Instructor Guide: sigs/3d-printing/classes/introduction/instructor-guide.md
+      - Slide Deck: sigs/3d-printing/classes/introduction/slide-deck.md
+      - Slide Outline: sigs/3d-printing/classes/introduction/slide-outline.md
+      - Attendee Handout: sigs/3d-printing/classes/introduction/attendee-handout.md
+      - Timing Plan: sigs/3d-printing/classes/introduction/timing-plan.md
+  #     - All Things Apple: sigs/apple.md
+  #     - Artificial Intelligence: sigs/ai.md
+  #     - Streaming and Cord Cutting: sigs/streaming-cord-cutting.md
+  #     - Flight Simulator: sigs/flight-simulator.md
+  #     - Genealogy: sigs/genealogy.md
+  #     - "Open Systems (Linux)": sigs/open-systems.md
+  #     - PC Windows: sigs/windows.md
+  #     - Video Hangouts: sigs/video-hangouts.md
+  # - Pay Dues: pay-dues.md

@@ -10,8 +10,6 @@ Explore the world of 3D printing, from design to fabrication, and share knowledg
 - Meetings typically include demonstrations, member Q&A, and hands‑on help.
 - Some meetings will have a class that covers a specific common topic.
 
-
-
 ### Classes
 
 | Class Name                                                   | Description                                             |
