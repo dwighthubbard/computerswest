@@ -29,7 +29,7 @@ extra_css:
   - stylesheets/theme.css
 
 exclude_docs: |
-  sigs/3d-printing/classes/introduction/deck/*.md
+  sigs/3d-printing/classes/*/deck/*.md
 
 markdown_extensions:
     - pymdownx.blocks.html
@@ -92,13 +92,43 @@ nav:
   #     - Overview: sigs/overview.md
   #     - 3D Printing:
   - 3d Printing: sigs/3d-printing/3d-printing.md
-  - Introduction Class:
-      - Overview: sigs/3d-printing/classes/introduction/index.md
-      - Instructor Guide: sigs/3d-printing/classes/introduction/instructor-guide.md
-      - Slide Deck: sigs/3d-printing/classes/introduction/slide-deck.md
-      - Slide Outline: sigs/3d-printing/classes/introduction/slide-outline.md
-      - Attendee Handout: sigs/3d-printing/classes/introduction/attendee-handout.md
-      - Timing Plan: sigs/3d-printing/classes/introduction/timing-plan.md
+  - 3D Printing Classes:
+      - Introduction:
+          - Overview: sigs/3d-printing/classes/introduction/index.md
+          - Slide Deck: sigs/3d-printing/classes/introduction/slide-deck.md
+      - Getting Models:
+          - Overview: sigs/3d-printing/classes/Getting Models/index.md
+          - Slide Deck: sigs/3d-printing/classes/Getting Models/slide-deck.md
+      - Slicing:
+          - Overview: sigs/3d-printing/classes/Slicing/index.md
+          - Slide Deck: sigs/3d-printing/classes/Slicing/slide-deck.md
+      - Materials:
+          - Overview: sigs/3d-printing/classes/Materials/index.md
+          - Slide Deck: sigs/3d-printing/classes/Materials/slide-deck.md
+      - Parametric Design:
+          - Overview: sigs/3d-printing/classes/Parametric Design/index.md
+          - Slide Deck: sigs/3d-printing/classes/Parametric Design/slide-deck.md
+      - AI Design:
+          - Overview: sigs/3d-printing/classes/AI Design/index.md
+          - Slide Deck: sigs/3d-printing/classes/AI Design/slide-deck.md
+      - Common Problems and Solutions:
+          - Overview: sigs/3d-printing/classes/Common Problems and Solutions/index.md
+          - Slide Deck: sigs/3d-printing/classes/Common Problems and Solutions/slide-deck.md
+      - Designing For 3D Printing:
+          - Overview: sigs/3d-printing/classes/Designing For 3D Printing/index.md
+          - Slide Deck: sigs/3d-printing/classes/Designing For 3D Printing/slide-deck.md
+      - Functional Parts and Repairs:
+          - Overview: sigs/3d-printing/classes/Functional Parts and Repairs/index.md
+          - Slide Deck: sigs/3d-printing/classes/Functional Parts and Repairs/slide-deck.md
+      - Post Processing:
+          - Overview: sigs/3d-printing/classes/Post Processing/index.md
+          - Slide Deck: sigs/3d-printing/classes/Post Processing/slide-deck.md
+      - Maintenance and Calibration:
+          - Overview: sigs/3d-printing/classes/Maintenance and Calibration/index.md
+          - Slide Deck: sigs/3d-printing/classes/Maintenance and Calibration/slide-deck.md
+      - 3D Scanning and Reverse Engineering:
+          - Overview: sigs/3d-printing/classes/3D Scanning and Reverse Engineering/index.md
+          - Slide Deck: sigs/3d-printing/classes/3D Scanning and Reverse Engineering/slide-deck.md
   #     - All Things Apple: sigs/apple.md
   #     - Artificial Intelligence: sigs/ai.md
   #     - Streaming and Cord Cutting: sigs/streaming-cord-cutting.md
