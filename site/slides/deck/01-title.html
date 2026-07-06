@@ -1,0 +1,180 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Introduction to 3D Printing</title>
+    <style>
+        :root {
+            --slide-width: 1280px;
+            --slide-height: 720px;
+            --base-font-size: 31px;
+            --cw-primary: #ff6c43;
+            --cw-primary-dark: #90030c;
+            --cw-secondary: #ea8d23;
+            --cw-header: #df9967;
+            --cw-text: #1f1f1f;
+            --cw-muted: #5d4033;
+            --cw-surface: rgba(255, 255, 255, 0.94);
+        }
+
+        html {
+            margin: 0;
+            padding: 0;
+            width: 100%;
+            height: 100%;
+            overflow: hidden;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            background: #4c1e09;
+        }
+
+        body {
+            position: relative;
+            margin: 0;
+            width: var(--slide-width);
+            height: var(--slide-height);
+            min-width: var(--slide-width);
+            max-width: none;
+            overflow: hidden;
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+            font-size: var(--base-font-size);
+            line-height: 1.35;
+            color: var(--cw-text);
+            background:
+                linear-gradient(90deg, rgba(255, 255, 255, 0.97) 0%, rgba(255, 255, 255, 0.94) 58%, rgba(255, 244, 235, 0.9) 100%),
+                url("../../images/desert_background_light.png") center/cover no-repeat;
+        }
+
+        body::before {
+            content: "";
+            position: absolute;
+            inset: 0 0 auto 0;
+            height: 22px;
+            background: linear-gradient(90deg, var(--cw-primary-dark), var(--cw-primary), var(--cw-secondary));
+            z-index: 1;
+        }
+
+        .slide-content {
+            position: relative;
+            z-index: 2;
+            width: 100%;
+            height: 100%;
+            padding: 74px 78px 58px;
+            box-sizing: border-box;
+            display: flex;
+            flex-direction: column;
+            justify-content: flex-start;
+        }
+
+        .slide-content::after {
+            content: "";
+            position: absolute;
+            right: 42px;
+            bottom: 30px;
+            width: 132px;
+            height: 74px;
+            background: url("../../images/cw-logo-clear8-e1711862350250.png") center/contain no-repeat;
+            opacity: 0.16;
+            pointer-events: none;
+        }
+
+        .slide-content > * {
+            width: 100%;
+            max-width: none;
+            min-width: 0;
+            box-sizing: border-box;
+        }
+
+        h1 {
+            margin: 0 0 0.55em;
+            color: var(--cw-primary-dark);
+            font-size: 1.62em;
+            line-height: 1.08;
+            font-weight: 760;
+            letter-spacing: 0;
+        }
+
+        h2 {
+            margin: 0 0 0.5em;
+            color: var(--cw-primary-dark);
+            font-size: 1.25em;
+            line-height: 1.14;
+            letter-spacing: 0;
+        }
+
+        p {
+            margin: 0 0 0.78em;
+            color: var(--cw-text);
+        }
+
+        ul,
+        ol {
+            margin: 0.45em 0 0.8em;
+            padding-left: 1.25em;
+        }
+
+        li {
+            margin-bottom: 0.34em;
+        }
+
+        li::marker {
+            color: var(--cw-primary);
+        }
+
+        strong {
+            color: var(--cw-primary-dark);
+        }
+
+        img {
+            display: block;
+            box-shadow: 0 12px 30px rgba(76, 30, 9, 0.18);
+            object-fit: cover;
+        }
+
+        a {
+            color: var(--cw-primary-dark);
+        }
+
+        code {
+            font-family: "SFMono-Regular", Consolas, "Liberation Mono", Menlo, monospace;
+            background: rgba(255, 108, 67, 0.13);
+            border-radius: 4px;
+            padding: 0.12em 0.28em;
+            font-size: 0.86em;
+        }
+
+        pre {
+            margin: 0.9em 0;
+            padding: 0.9em;
+            background: rgba(255, 255, 255, 0.88);
+            border-left: 8px solid var(--cw-primary);
+            font-size: 0.58em;
+            line-height: 1.45;
+            overflow-x: auto;
+        }
+    </style>
+    <script>
+        function scaleContent() {
+            const html = document.documentElement;
+            const body = document.body;
+            const scaleX = (window.innerWidth - 32) / body.offsetWidth;
+            const scaleY = (window.innerHeight - 32) / body.offsetHeight;
+            const scale = Math.min(scaleX, scaleY, 1);
+            html.style.transform = `scale(${scale})`;
+            html.style.transformOrigin = "center center";
+        }
+
+        window.addEventListener("load", scaleContent);
+        window.addEventListener("resize", scaleContent);
+    </script>
+</head>
+<body>
+    <div class="slide-content">
+        <h1>Introduction to 3D Printing</h1>
+<p>From digital model to physical object</p>
+<p>Computers West 3D Printing SIG</p>
+    </div>
+</body>
+</html>

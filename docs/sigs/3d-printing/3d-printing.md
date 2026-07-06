@@ -1,7 +1,7 @@
 # 3D Printing Special Interest Group (SIG)
 
 !!! info "Next Class"
-    June 8th, 2026 - [Introduction to 3D Printing](classes/introduction/index.md)
+    July 6th, 2026 - [Introduction to 3D Printing](classes/introduction/index.md)
 
 Explore the world of 3D printing, from design to fabrication, and share knowledge on best practices and innovations in the field.
 
