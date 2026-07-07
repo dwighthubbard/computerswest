@@ -1,6 +1,7 @@
 # AI Design Slide Deck
 
-Use the controls below to present the class slide deck. The deck is designed for a 45-minute session.
+Use the controls below to present the class slide deck. The deck is designed for a 
+45-minute session.
 
 ```slides
 title: AI Design

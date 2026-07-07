@@ -1,6 +1,8 @@
 # Getting Models
 
-This class explains where 3D models come from, how to evaluate them before printing, and how to avoid common problems with downloaded files. It is designed for a presentation and short live demonstration that fits within 45 minutes.
+This class explains where 3D models come from, how to evaluate them before printing, 
+and how to avoid common problems with downloaded files. It is designed for a 
+presentation and short live demonstration that fits within 45 minutes.
 
 ## Class Materials
 
@@ -21,4 +23,6 @@ By the end of the class, attendees should understand:
 
 ## Suggested Demonstration
 
-Open a model site such as Printables, Thingiverse, MakerWorld, or MyMiniFactory. Choose one simple functional item and one decorative item, then compare file formats, photos, print settings, license, comments, and remix/customization options.
+Open a model site such as Printables, Thingiverse, MakerWorld, or MyMiniFactory. 
+Choose one simple functional item and one decorative item, then compare file formats, 
+photos, print settings, license, comments, and remix/customization options.

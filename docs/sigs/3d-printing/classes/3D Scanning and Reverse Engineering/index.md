@@ -1,6 +1,7 @@
 # 3D Scanning and Reverse Engineering
 
-This class introduces ways to capture or recreate real-world objects for 3D printing, along with the practical limits of scanning.
+This class introduces ways to capture or recreate real-world objects for 3D printing, 
+along with the practical limits of scanning.
 
 ## Class Materials
 
@@ -21,4 +22,6 @@ By the end of the class, attendees should understand:
 
 ## Suggested Demonstration
 
-Show a scanned decorative object or a phone-scanning workflow if available. Then compare it with measuring a simple functional part using calipers to explain why scanning is not always enough.
+Show a scanned decorative object or a phone-scanning workflow if available. Then 
+compare it with measuring a simple functional part using calipers to explain why 
+scanning is not always enough.

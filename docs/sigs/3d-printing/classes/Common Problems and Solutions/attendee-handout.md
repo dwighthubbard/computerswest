@@ -2,7 +2,8 @@
 
 ## First Rule
 
-Change one thing at a time. If you change five settings at once, you will not know what helped.
+Change one thing at a time. If you change five settings at once, you will not know 
+what helped.
 
 ## Quick Checks
 

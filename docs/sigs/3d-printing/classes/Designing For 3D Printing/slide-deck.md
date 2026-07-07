@@ -1,6 +1,7 @@
 # Designing For 3D Printing Slide Deck
 
-Use the controls below to present the class slide deck. The deck is designed for a 45-minute session.
+Use the controls below to present the class slide deck. The deck is designed for a 
+45-minute session.
 
 ```slides
 title: Designing For 3D Printing

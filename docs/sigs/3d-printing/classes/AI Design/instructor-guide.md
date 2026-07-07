@@ -23,7 +23,9 @@ Attendees who are curious about using AI to support 3D printing design work.
 
 ## Example Prompt
 
-Create a simple OpenSCAD model for a rectangular cable label tag. It should be 50 mm long, 18 mm wide, 2 mm thick, with a 4 mm zip-tie hole near each end. Use rounded corners if practical. Keep the design easy to print flat on an FDM printer.
+Create a simple OpenSCAD model for a rectangular cable label tag. It should be 50 mm 
+long, 18 mm wide, 2 mm thick, with a 4 mm zip-tie hole near each end. Use rounded 
+corners if practical. Keep the design easy to print flat on an FDM printer.
 
 ## Common Questions
 

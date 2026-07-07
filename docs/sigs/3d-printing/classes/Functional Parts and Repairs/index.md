@@ -1,6 +1,7 @@
 # Functional Parts and Repairs
 
-This class focuses on practical 3D printing for household fixes, brackets, clips, spacers, organizers, and replacement parts.
+This class focuses on practical 3D printing for household fixes, brackets, clips, 
+spacers, organizers, and replacement parts.
 
 ## Class Materials
 
@@ -21,4 +22,5 @@ By the end of the class, attendees should understand:
 
 ## Suggested Demonstration
 
-Measure a simple object such as a drawer spacer, knob, clip, or bracket. Sketch the important dimensions and discuss how it would be modeled, printed, tested, and revised.
+Measure a simple object such as a drawer spacer, knob, clip, or bracket. Sketch the 
+important dimensions and discuss how it would be modeled, printed, tested, and revised.

@@ -1,6 +1,7 @@
 # Common Problems and Solutions
 
-This class covers the most common 3D printing problems beginners encounter and gives practical first steps for diagnosing and fixing them.
+This class covers the most common 3D printing problems beginners encounter and gives 
+practical first steps for diagnosing and fixing them.
 
 ## Class Materials
 
@@ -21,4 +22,6 @@ By the end of the class, attendees should understand:
 
 ## Suggested Demonstration
 
-Show photos or physical examples of failed prints: poor first layer, warping, stringing, blobs, layer shift, clogged nozzle, and weak part. For each one, identify likely causes and first fixes.
+Show photos or physical examples of failed prints: poor first layer, warping, 
+stringing, blobs, layer shift, clogged nozzle, and weak part. For each one, identify 
+likely causes and first fixes.

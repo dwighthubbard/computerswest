@@ -4,4 +4,5 @@
 
 Most beginner printers build the object one thin layer at a time.
 
-The model tells the software the shape. The printer follows generated instructions to make it real.
+The model tells the software the shape. The printer follows generated instructions to 
+make it real.

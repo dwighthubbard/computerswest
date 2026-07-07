@@ -37,4 +37,5 @@ License
 
 ## Practical Advice
 
-Start with small, proven models. A simple successful print teaches more than a large failed one.
+Start with small, proven models. A simple successful print teaches more than a large 
+failed one.

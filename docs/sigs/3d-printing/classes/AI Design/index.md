@@ -1,6 +1,7 @@
 # AI Design
 
-This class explains practical ways AI can assist 3D printing projects, while setting realistic expectations about what AI can and cannot produce.
+This class explains practical ways AI can assist 3D printing projects, while setting 
+realistic expectations about what AI can and cannot produce.
 
 ## Class Materials
 
@@ -21,4 +22,6 @@ By the end of the class, attendees should understand:
 
 ## Suggested Demonstration
 
-Ask AI for a simple OpenSCAD model, such as a labeled cable tag or spacer with a hole. Review the generated code, identify assumptions, and explain what must be checked before printing.
+Ask AI for a simple OpenSCAD model, such as a labeled cable tag or spacer with a hole. 
+Review the generated code, identify assumptions, and explain what must be checked 
+before printing.

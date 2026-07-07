@@ -2,7 +2,8 @@
 
 ## Audience
 
-Attendees interested in practical repairs and utility parts rather than decorative prints.
+Attendees interested in practical repairs and utility parts rather than decorative 
+prints.
 
 ## Key Points
 

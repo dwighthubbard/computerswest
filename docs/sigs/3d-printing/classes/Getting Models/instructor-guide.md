@@ -2,7 +2,8 @@
 
 ## Audience
 
-Beginners who understand the basic 3D printing workflow but do not yet know how to find or evaluate models.
+Beginners who understand the basic 3D printing workflow but do not yet know how to 
+find or evaluate models.
 
 ## Key Points
 
@@ -34,4 +35,5 @@ Why did a downloaded model fail?
 
 ## Instructor Notes
 
-Avoid turning this class into a long tour of every model site. The useful skill is evaluating a model before spending time and filament on it.
+Avoid turning this class into a long tour of every model site. The useful skill is 
+evaluating a model before spending time and filament on it.

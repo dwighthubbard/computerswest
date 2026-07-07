@@ -1,6 +1,7 @@
 # Designing For 3D Printing
 
-This class introduces design choices that make parts easier, stronger, and more reliable to print on common FDM printers.
+This class introduces design choices that make parts easier, stronger, and more 
+reliable to print on common FDM printers.
 
 ## Class Materials
 
@@ -21,4 +22,5 @@ By the end of the class, attendees should understand:
 
 ## Suggested Demonstration
 
-Show the same simple bracket or hook in two orientations. Compare support material, print time, layer direction, and likely strength.
+Show the same simple bracket or hook in two orientations. Compare support material, 
+print time, layer direction, and likely strength.
